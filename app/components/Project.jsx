@@ -181,6 +181,20 @@ const Project = () => {
                         alt="Design 15"
                       />
                     </div>
+                    <div className="relative">
+                      <img
+                        className="object-cover w-full  aspect-square"
+                        src="/banner1.jpg"
+                        alt="Design 15"
+                      />
+                    </div>
+                    <div className="relative">
+                      <img
+                        className="object-cover w-full  aspect-square"
+                        src="banner2.jpg"
+                        alt="Design 15"
+                      />
+                    </div>
                   </>
                 ) : (
                   <>
